@@ -50,7 +50,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-react-refresh", "virtual:ce867b5652edc630cea316f95e392af728e196662b2a2072f080bb1cafa7846e8d8f52bebf21cfd132edc79890f7ed36797b5bb8f3768da1d19a6f5048c3ccb6#npm:0.4.7"],\
           ["husky", "npm:9.0.11"],\
           ["lint-staged", "npm:15.2.7"],\
-          ["prettier", "npm:3.3.2"],\
+          ["prettier", "npm:3.3.3"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:ce867b5652edc630cea316f95e392af728e196662b2a2072f080bb1cafa7846e8d8f52bebf21cfd132edc79890f7ed36797b5bb8f3768da1d19a6f5048c3ccb6#npm:18.3.1"],\
           ["typescript", "patch:typescript@npm%3A4.4.4#optional!builtin<compat/typescript>::version=4.4.4&hash=bbeadb"],\
@@ -2210,7 +2210,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-react-refresh", "virtual:ce867b5652edc630cea316f95e392af728e196662b2a2072f080bb1cafa7846e8d8f52bebf21cfd132edc79890f7ed36797b5bb8f3768da1d19a6f5048c3ccb6#npm:0.4.7"],\
           ["husky", "npm:9.0.11"],\
           ["lint-staged", "npm:15.2.7"],\
-          ["prettier", "npm:3.3.2"],\
+          ["prettier", "npm:3.3.3"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:ce867b5652edc630cea316f95e392af728e196662b2a2072f080bb1cafa7846e8d8f52bebf21cfd132edc79890f7ed36797b5bb8f3768da1d19a6f5048c3ccb6#npm:18.3.1"],\
           ["typescript", "patch:typescript@npm%3A4.4.4#optional!builtin<compat/typescript>::version=4.4.4&hash=bbeadb"],\
@@ -3325,7 +3325,7 @@ const RAW_RUNTIME_STATE =
           ["@types/prettier", null],\
           ["eslint", "npm:8.57.0"],\
           ["eslint-config-prettier", "virtual:ce867b5652edc630cea316f95e392af728e196662b2a2072f080bb1cafa7846e8d8f52bebf21cfd132edc79890f7ed36797b5bb8f3768da1d19a6f5048c3ccb6#npm:9.1.0"],\
-          ["prettier", "npm:3.3.2"],\
+          ["prettier", "npm:3.3.3"],\
           ["prettier-linter-helpers", "npm:1.0.0"],\
           ["synckit", "npm:0.8.8"]\
         ],\
@@ -5590,10 +5590,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["prettier", [\
-      ["npm:3.3.2", {\
-        "packageLocation": "./.yarn/unplugged/prettier-npm-3.3.2-efeafcaa4b/node_modules/prettier/",\
+      ["npm:3.3.3", {\
+        "packageLocation": "./.yarn/unplugged/prettier-npm-3.3.3-e811f023f3/node_modules/prettier/",\
         "packageDependencies": [\
-          ["prettier", "npm:3.3.2"]\
+          ["prettier", "npm:3.3.3"]\
         ],\
         "linkType": "HARD"\
       }]\
